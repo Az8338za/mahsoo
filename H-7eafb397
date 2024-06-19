@@ -2,6 +2,7 @@ vless://7eafb397-1f54-4bc3-bfd8-e03da6f09b65@84.32.230.132:2096?encryption=none&
 vless://7eafb397-1f54-4bc3-bfd8-e03da6f09b65@84.32.230.132:2096?encryption=none&security=none&type=tcp&headerType=http&host=check-host.net#SV%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%2002
 vless://7eafb397-1f54-4bc3-bfd8-e03da6f09b65@84.32.230.132:2096?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#SV%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%2003
 vless://7eafb397-1f54-4bc3-bfd8-e03da6f09b65@84.32.230.132:2096?encryption=none&security=none&type=tcp&headerType=http&host=urldl.ir#SV%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%2004
-vless://7eafb397-1f54-4bc3-bfd8-e03da6f09b65@185.228.235.165:46611?encryption=none&security=none&type=tcp&headerType=http&host=discord.com#SV%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%2001
-vless://7eafb397-1f54-4bc3-bfd8-e03da6f09b65@185.228.235.165:46611?encryption=none&security=none&type=tcp&headerType=http&host=check-host.net#SV%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%2002
-vless://7eafb397-1f54-4bc3-bfd8-e03da6f09b65@185.228.235.165:46611?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#SV%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%2003
+vless://7eafb397-1f54-4bc3-bfd8-e03da6f09b65@188.130.207.36:443?encryption=none&security=none&type=tcp&headerType=http&host=discord.com#SV%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%2001
+vless://7eafb397-1f54-4bc3-bfd8-e03da6f09b65@188.130.207.36:443?encryption=none&security=none&type=tcp&headerType=http&host=check-host.net#SV%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%2002
+vless://7eafb397-1f54-4bc3-bfd8-e03da6f09b65@188.130.207.36:443?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#SV%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%2003
+vless://7eafb397-1f54-4bc3-bfd8-e03da6f09b65@188.130.207.36:443?encryption=none&security=none&type=tcp&headerType=http&host=snappfood.ir#SV%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%2004
